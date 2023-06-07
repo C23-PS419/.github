@@ -9,3 +9,4 @@ This project seeks to leverage technology, such as mobile applications and machi
 ## Useful links
 
 - [Our proposal](https://docs.google.com/document/d/1wzXKB5BWudtSclEW9WcgD-ehJaObUw2ZQUsG-4_5Bzk)
+- [UI Design](https://www.figma.com/file/bsFA2fUr5Zdh9bvfgGAepF/Capstone-Project-PetaniKita)
